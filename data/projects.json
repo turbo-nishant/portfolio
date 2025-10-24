@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "AI Chat Application",
+      "description": "A modern chat application powered by AI with real-time messaging and smart responses.",
+      "image": "/placeholder.svg?height=300&width=400",
+      "tags": ["React", "Next.js", "AI", "WebSocket"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/username/ai-chat",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "E-commerce Dashboard",
+      "description": "A comprehensive dashboard for managing online stores with analytics and inventory management.",
+      "image": "/placeholder.svg?height=300&width=400",
+      "tags": ["React", "TypeScript", "Charts", "API"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/username/ecommerce-dashboard",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Weather App",
+      "description": "Beautiful weather application with animated backgrounds and detailed forecasts.",
+      "image": "/placeholder.svg?height=300&width=400",
+      "tags": ["React", "API", "Animation", "PWA"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/username/weather-app",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "Task Management Tool",
+      "description": "Collaborative task management with drag-and-drop functionality and team features.",
+      "image": "/placeholder.svg?height=300&width=400",
+      "tags": ["React", "DnD", "Collaboration", "Real-time"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/username/task-manager",
+      "featured": false
+    },
+    {
+      "id": "5",
+      "title": "Portfolio Website",
+      "description": "A stunning portfolio website with smooth animations and modern design.",
+      "image": "/placeholder.svg?height=300&width=400",
+      "tags": ["Next.js", "Framer Motion", "Tailwind", "Responsive"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/username/portfolio",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "Social Media App",
+      "description": "Full-stack social media application with posts, comments, and real-time notifications.",
+      "image": "/placeholder.svg?height=300&width=400",
+      "tags": ["Next.js", "Database", "Auth", "Real-time"],
+      "liveUrl": "https://example.com",
+      "githubUrl": "https://github.com/username/social-app",
+      "featured": false
+    }
+  ]
+}
